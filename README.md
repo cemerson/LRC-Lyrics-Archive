@@ -11,3 +11,5 @@
     * [Eulogies](https://www.amazon.com/Eulogies-Wolves-At-Gate/dp/B09NY99DBH) (WIP)
     * [VxV](https://www.amazon.com/VxV-Wolves-At-Gate/dp/B00JPO95T4) (WIP)
 * ...
+
+#LRC #Lyrics #WolvesAtTheGate #Genius.com 
