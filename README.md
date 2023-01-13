@@ -1,5 +1,5 @@
 # What is this?
-- Archive of custom LRC files I've generated for songs (likely) not found on the big lyric/LRC websites
+- Archive of custom LRC files I've generated for songs (likely) not found on the big lyric/LRC websites (most using very helpful tool at lrcgenerator.com)
 - Until I find a website dependable enough to archive these I'll just keep them hosted in this repository
 - The LRC files are not perfect - and some likely have some timing issues which I may/may not fix if bad enough (and/or I have time)
 
